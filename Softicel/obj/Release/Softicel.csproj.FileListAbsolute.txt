@@ -1,0 +1,45 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Bot Application.dll.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Bot Application.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Bot Application.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Autofac.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Chronic.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Microsoft.Bot.Builder.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Microsoft.Bot.Connector.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\System.Web.Http.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Autofac.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Microsoft.Bot.Builder.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Microsoft.Bot.Connector.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\System.Web.Http.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\obj\Release\Softicel.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\obj\Release\Bot Application.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\obj\Release\Bot Application.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Softicel\Softicel\obj\Release\Softicel.csprojResolveAssemblyReference.cache
